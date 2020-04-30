@@ -1,19 +1,29 @@
 ---
-templateKey: 'about-page'
+templateKey: "about-page"
 path: /about
-title: About our values
+title: About author
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### The beginnings (1993)
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+My first contact with TTRPGs was through my friend. We were both fans of _Talisman_, a popular boardgame called in Poland _Magia i Miecz_ (Magic and the Sword). So when his older brother bought a magazine called _Magia i Miecz_ it caught our attention. _Magia i Miecz_ though touched a topic of totally different type of games as I have learned - tabletop role playing games. The first issue I bought had a whole TTRPG game described on dozen of pages - it was _Oko Yrrhedesa_ (The Eye of Yrrhedes) and was authored by no one else than Andrzej Sapkowski, the author of The Witcher saga.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+With noone around to teach us, I have read carefully the game description couple of times and game mastered my first session to couple of my friends.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### The everyday (1994-1999)
+
+After that I've started running games on _Kryształy Czasu_ (Crystals of Time) by Artur Szyndler which was published in parts in Magia i Miecz. It was times when none of the RPG games was published yet in Poland. But that was about to change.
+
+Friend of mine bought translation of _Warhammer Fantasy Roleplay_ 1st edition and run several games for us. Another bought the translation of _Cyberpunk 2020_ and run couple of sessions too. And I have bought the translation of _Advanced Dungeons & Dragons 2ed_ which became my main RPG for couple of years.
+
+### The disaster (2000-2006)
+
+But as we aged we changed schools, got girlfriends, started universities and our paths started to diverege. So did our games.
+
+I had some occasional games, but very infrequent. My love for RPGs didn't fade, but turned more into collecting them, so I have added to my shelves _Earthdawn_, _Monastyr_ (polish dark fantasy game), _Neuroshima_ (polish post-apocalyptic game), _Dungeons & Dragons 3.5_, _Call of Cthulhu 5ed_, _Dzikie Pola_ (polish game set in 16th-18th century in Poland, Lithuania and Ukraine).
+
+### Little comeback (2007-2009)
+
+University finished, relationship broken, I have decided to come back to tabletop RPGs. A guy I met on a random RPG game introduced me to the group of RPG and LARP fans collected in _Trójmiejska Inicjatywa RPGowa_ (Tricity RPG Initiative). Apart of participating in nerd parties they organised, urbex explorations and LARP conventions, it gave me chance to sit again at the table as a game master. I did run some short campaigns of _Monastyr_ and _Call of Cthulhu_, as well as increased my collection with games like _Klanarchia_ (polish dark fantasy), _Burning Wheel Revised_, _Savage Worlds_, _Midnight_ setting for D&D.
+
+### Another hiatus
