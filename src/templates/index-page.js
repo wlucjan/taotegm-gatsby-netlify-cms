@@ -17,7 +17,7 @@ export const IndexPageTemplate = ({
     <div
       className="full-width-image margin-top-0"
       style={{
-        backgroundImage: image,
+        backgroundImage: `url(${image})`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
       }}
