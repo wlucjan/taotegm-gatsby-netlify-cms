@@ -17,7 +17,7 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
-                        Home
+                        Strona główna
                       </Link>
                     </li>
                     <li>
@@ -27,7 +27,7 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        About
+                        O autorze
                       </Link>
                     </li>
                     <li>
@@ -37,7 +37,7 @@ const Footer = class extends React.Component {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Admin
+                        Administracja
                       </a>
                     </li>
                   </ul>
