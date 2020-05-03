@@ -11,7 +11,6 @@ tags:
   - sesja zero
   - narzędzia
 ---
-![początek drogi](https://res.cloudinary.com/taotegm/image/upload/v1588535621/taotegm/road-in-between-trees-814667_qzuqsv.jpg)
 
 Nowe początki są przeważnie trudne. Gdy grasz już dziesiątą sesję kampanii, to problemy na następną sesję budują się niemal same - masz te dziesięć sesji działań bohaterów, z których możesz czerpać pomysły. Zaczynając masz jednak przed sobą pustą kartkę, a pusta kartka potrafi być deprymująca.
 
@@ -25,10 +24,10 @@ Przez sesję zero rozumiem pierwsze spotkanie, na którym grupa wspólnie stawia
 
 Czyli na takim spotkaniu określamy w kontekście planowanej rozgrywki aspekty:
 
-* fabularny - wybieramy świat i sytuację, które chcemy eksplorować, tworzymy głównych bohaterów
-* mechaniczny - wybieramy zasady, zarówno podstawowe w postaci systemu, jak i opcjonalne (te oficjalne i domowe),
-* społeczny - określamy jakie zachowania są a jakie nie pożądane przy stole
-* organizacyjny - jak często będziemy grać, jak długo trwać będzie jedno spotkanie, czy gramy tylko przy komplecie, itd.
+- fabularny - wybieramy świat i sytuację, które chcemy eksplorować, tworzymy głównych bohaterów
+- mechaniczny - wybieramy zasady, zarówno podstawowe w postaci systemu, jak i opcjonalne (te oficjalne i domowe),
+- społeczny - określamy jakie zachowania są a jakie nie pożądane przy stole
+- organizacyjny - jak często będziemy grać, jak długo trwać będzie jedno spotkanie, czy gramy tylko przy komplecie, itd.
 
 ## Społeczny aspekt rozgrywki
 
@@ -56,6 +55,6 @@ To trochę jak z myciem rąk w tych dziwnych czasach - kwestia higieny, która z
 
 ## Na marginesie
 
-W 2018 do dyspozycji był tylko oryginalny artykuł Chrisa, dziś doczekał się adaptacji w naszym ojczystym języku, autorstwa Macieja Litwina i zostało udostępnione pod adresem [PSG Tool](https://docs.google.com/document/d/1N6ZyjJ6l1UoXmutenXKp3wvyVwu_DkyPx7AHR1HR1lE/edit?fbclid=IwAR1Adux2ZDzh1hUMu3k9ENDJ-MKfCCj4u82mg9odNhRg9KwcjaoNzNCam7E). Maciej podjął się też popularyzacji tego narzędzia - miałem okazję posłuchać jego prelekcji na Coperniconie w 2019. Szacun dla Macieja, bo to dobra inicjatywa.\
-\
-*Zdjęcie autorstwa[ **tousif khan**](https://www.pexels.com/pl-pl/@tousif-khan-260664?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)z **[Pexels](https://www.pexels.com/pl-pl/zdjecie/asfalt-droga-drzewa-krajobraz-814667/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
+W 2018 do dyspozycji był tylko oryginalny artykuł Chrisa, dziś doczekał się adaptacji w naszym ojczystym języku, autorstwa Macieja Litwina i zostało udostępnione pod adresem [PSG Tool](https://docs.google.com/document/d/1N6ZyjJ6l1UoXmutenXKp3wvyVwu_DkyPx7AHR1HR1lE/edit?fbclid=IwAR1Adux2ZDzh1hUMu3k9ENDJ-MKfCCj4u82mg9odNhRg9KwcjaoNzNCam7E). Maciej podjął się też popularyzacji tego narzędzia - miałem okazję posłuchać jego prelekcji na Coperniconie w 2019. Szacun dla Macieja, bo to dobra inicjatywa.
+
+_Zdjęcie autorstwa_ [tousif khan](https://www.pexels.com/pl-pl/@tousif-khan-260664?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) z [Pexels](https://www.pexels.com/pl-pl/zdjecie/asfalt-droga-drzewa-krajobraz-814667/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)

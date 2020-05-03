@@ -1,10 +1,10 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
-import { Helmet } from 'react-helmet'
-import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import { graphql, Link } from "gatsby";
+import { kebabCase } from "lodash";
+import PropTypes from "prop-types";
+import React from "react";
+import { Helmet } from "react-helmet";
+import Content, { HTMLContent } from "../components/Content";
+import Layout from "../components/Layout";
 
 export const BlogPostTemplate = ({
   content,
@@ -13,12 +13,14 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  featuredimage,
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
+  const imageStyle = { borderRadius: "5px" };
 
   return (
     <section className="section">
-      {helmet || ''}
+      {helmet || ""}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
@@ -26,6 +28,13 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
+            {featuredimage ? (
+              <img
+                style={imageStyle}
+                src={featuredimage}
+                alt={`featured image for post ${title}`}
+              />
+            ) : null}
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -43,8 +52,8 @@ export const BlogPostTemplate = ({
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
@@ -52,10 +61,10 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
-}
+};
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
@@ -74,18 +83,19 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        featuredimage={post.frontmatter.featuredimage}
       />
     </Layout>
-  )
-}
+  );
+};
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
-}
+};
 
-export default BlogPost
+export default BlogPost;
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
@@ -96,8 +106,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
+        featuredimage
         tags
       }
     }
   }
-`
+`;
