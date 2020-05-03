@@ -2,15 +2,16 @@
 templateKey: blog-post
 title: Sesja zero
 date: 2020-04-30T15:00:00.000Z
+description: W styczniu 2018 miałem zacząć nową kampanię, a z nowymi kampaniami
+  każdy wie jak jest - początki bywają trudne. Biorąc pod uwagę, że miałem
+  zagrać też z nowymi graczami zdecydowałem się na sesję zero.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: W styczniu 2018 miałem zacząć nową kampanię, a z nowymi kampaniami każdy wie jak jest - początki bywają trudne. Biorąc pod uwagę, że miałem zagrać też z nowymi graczami zdecydowałem się na sesję zero.
+featuredimage: https://res.cloudinary.com/taotegm/image/upload/v1588535621/taotegm/road-in-between-trees-814667_qzuqsv.jpg
 tags:
   - sesja zero
   - narzędzia
 ---
-
-![flavor wheel](/img/flavor_wheel.jpg)
+![początek drogi](https://res.cloudinary.com/taotegm/image/upload/v1588535621/taotegm/road-in-between-trees-814667_qzuqsv.jpg)
 
 Nowe początki są przeważnie trudne. Gdy grasz już dziesiątą sesję kampanii, to problemy na następną sesję budują się niemal same - masz te dziesięć sesji działań bohaterów, z których możesz czerpać pomysły. Zaczynając masz jednak przed sobą pustą kartkę, a pusta kartka potrafi być deprymująca.
 
@@ -24,10 +25,10 @@ Przez sesję zero rozumiem pierwsze spotkanie, na którym grupa wspólnie stawia
 
 Czyli na takim spotkaniu określamy w kontekście planowanej rozgrywki aspekty:
 
-- fabularny - wybieramy świat i sytuację, które chcemy eksplorować, tworzymy głównych bohaterów
-- mechaniczny - wybieramy zasady, zarówno podstawowe w postaci systemu, jak i opcjonalne (te oficjalne i domowe),
-- społeczny - określamy jakie zachowania są a jakie nie pożądane przy stole
-- organizacyjny - jak często będziemy grać, jak długo trwać będzie jedno spotkanie, czy gramy tylko przy komplecie, itd.
+* fabularny - wybieramy świat i sytuację, które chcemy eksplorować, tworzymy głównych bohaterów
+* mechaniczny - wybieramy zasady, zarówno podstawowe w postaci systemu, jak i opcjonalne (te oficjalne i domowe),
+* społeczny - określamy jakie zachowania są a jakie nie pożądane przy stole
+* organizacyjny - jak często będziemy grać, jak długo trwać będzie jedno spotkanie, czy gramy tylko przy komplecie, itd.
 
 ## Społeczny aspekt rozgrywki
 
@@ -43,15 +44,15 @@ Wiedząc, że mam do czynienia z nowymi graczami, przygotowując się do sesji z
 
 W swych poszukiwaniach natrafiłem na artykuł Christophera Chinn opublikowany na stronie Deeper in the Game opisujący narzędzie [The Same Page Tool](https://bankuei.wordpress.com/2010/03/27/the-same-page-tool/), którego celem jest zgranie oczekiwań obecnych przy stole graczy i prowadzących.
 
-Samo narzędzie sprowadza się do zestawu pytań i zamkniętej listy odpowiedzi. Same pytania i odpowiedzi są z założenia bodźcem do dyskusji. Bo w tym ćwiczeniu nie chodzi o to by zrobić anonimową ankietę i demokratycznie ustalić w co gramy. Jak doskonale wiemy demokratyczne państwa są pełnie ludzi niezadowolonych z aktualnych rządów. Celem tego narzędzia jest rozpoczęcie dyskusji, która pozwoli nam poznać swoje preferencje i oczekiwania.
+Samo narzędzie sprowadza się do zestawu pytań i zamkniętej listy odpowiedzi. Same pytania i odpowiedzi są z założenia bodźcem do dyskusji. Bo w tym ćwiczeniu nie chodzi o to by zrobić anonimową ankietę i demokratycznie ustalić w co gramy - demokratyczne państwa są pełnie ludzi niezadowolonych z aktualnych rządów. Celem tego narzędzia jest rozpoczęcie dyskusji, która pozwoli nam poznać swoje preferencje i oczekiwania. Fakt posiadania spisanych gotowych pytań zaś zwiększa szansę poruszenie tematów, które być może w innych okolicznościach mogłyby zostać pominięte i zapomniane.
 
-Dla przykładu pytanie o to czy postacie mogą wchodzić między sobą w konflikty pozwoliłoby przedyskutować kwestię i może uniknąć rozczarowania w sytuacji z przytoczonej anegdoty ze zdrajcą.
+Dla przykładu pytanie o to czy postacie mogą wchodzić między sobą w konflikty, pozwoliłoby przedyskutować kwestię i może uniknąć rozczarowania w sytuacji z przytoczonej anegdoty ze zdrajcą.
 
 ## Żadnych gwarancji
 
-Sam fakt użycia tego narzędzia nie gwarantuje Wam, że unikniecie konfliktów podczas rozgrywki. Dla przykładu - mimo, że na sesji zero ustaliliśmy, że nie ma scen rozgrywanych z MG za zamkniętymi drzwiami, traktujemy się jak dorosłych i zdolnych oddzielić wiedzę gracza od wiedzy bohatera, to jednak zdarzyło nam się, że jeden gracz drugiemu zarzucił nadużycie wiedzy gracza.
+Sam fakt użycia tego narzędzia nie gwarantuje Wam, że unikniecie konfliktów podczas rozgrywki. Dla przykładu - mimo, że na sesji zero ustaliliśmy nie rozgrywać scen z MG za zamkniętymi drzwiami, bo traktujemy się jak dorosłych i zdolnych oddzielić wiedzę gracza od wiedzy bohatera, to jednak zdarzyło nam się, że jeden gracz drugiemu zarzucił nadużycie wiedzy gracza.
 
-To trochę jak z myciem rąk w tych dziwnych czasach - są to narzędzia higieny i zmniejszające ryzyko niepożądanych sytuacji, ale nie dające żadnej gwarancji, że do takich sytuacji nie dojdzie. Niemniej wciaż warto myć ręce, i wciąż warto porozmawiać o swoich oczekiwaniach przed rozgrywką. Najgorsze co może się zdarzyć, to że odpowiednio wcześnie odkryjemy, że w tym składzie jest nam nie po drodze.
+To trochę jak z myciem rąk w tych dziwnych czasach - kwestia higieny, która zmniejsza ryzyko niepożądanych sytuacji, ale nie daje żadnej gwarancji, że do takich sytuacji nie dojdzie. Niemniej wciąż warto myć ręce, i wciąż warto porozmawiać o swoich oczekiwaniach przed rozgrywką. Najgorsze co może się zdarzyć, to że odpowiednio wcześnie odkryjemy, iż w tym składzie jest nam nie po drodze.
 
 ## Na marginesie
 
