@@ -11,6 +11,7 @@ featuredimage: https://res.cloudinary.com/taotegm/image/upload/v1588535621/taote
 tags:
   - sesja zero
   - narzędzia
+  - RPGaDAY
 ---
 W powyższej scenie jedno jest pewne, nie wszystkie niespodzianki są miłe. W szczególności niespodzianki, które łamią nasze oczekiwania. 
 
