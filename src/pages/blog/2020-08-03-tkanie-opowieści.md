@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: Tkanie opowieści
 date: 2020-08-03T19:00:48.619Z
-description: Wątki postaci są niczym miecz obosieczny, można się nimi równie
-  łatwo skaleczyć co utkać porywającą historię.
+description: Wątki postaci są niczym ostry nóż, można się nimi równie
+  łatwo skaleczyć co utkać porywającą historię. Nóż jednak warto mieć i używać. Podobnie wątki postaci.
 featuredpost: false
 featuredimage: https://res.cloudinary.com/taotegm/image/upload/v1596385702/taotegm/rpg_lfwb37.jpg
 tags:
@@ -18,4 +18,4 @@ W innej historii, troje awanturników uciekało przed Czarnym Okiem podejrzani o
 
 Wątki postaci mają wielką siłę oddziaływania na bohatera. Niosą duże emocje dla gracza. Mają moc spajania grupy bohaterów, ale potrafią też ją podzielić. Są narzędziem, którego użycie może zwrócić się po kroć, ale też, którym można się boleśnie skaleczyć.
 
-Artykuł powstał w ramach RPGaDAY #3 "Wątek"/"Thread"
+Artykuł powstał w ramach [\#RPGaDAY](https://www.autocratik.com/2020/06/announcing-rpgaday2020.html) #3 "Wątek"/"Thread"

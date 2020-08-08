@@ -29,4 +29,4 @@ Są też i Ci, z którymi przygodę można powiedzieć dopiero zaczynam, a już 
 Bez Karola, Kalego, Kruka, Creya, Jasia, Tajfuna, Dracha, Elfa, Kasi, Jagody i Kirtana moja historia z RPG nie byłaby tak ciekawa. To w dużej mierze dzięki nim moje erpegie jest takie jakie jest - skupione na bohaterach graczy i na tym co stworzyć możemy razem jeżeli otworzymy się na swoje pomysły. Kudos Wam za to wspólne erpegowanie i wierzę, że przed nami jeszcze wiele wspaniałych opowieści, które razem wysnujemy.
 
 \
-Post powstał w ramach RPGaDAY #5 "Hołd"/"Tribute"
+Post powstał w ramach [\#RPGaDAY](https://www.autocratik.com/2020/06/announcing-rpgaday2020.html) #5 "Hołd"/"Tribute"

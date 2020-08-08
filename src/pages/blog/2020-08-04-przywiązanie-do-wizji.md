@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Przywiązanie do wizji
 date: 2020-08-04T19:00:48.619Z
-description: Wizja postaci to coś co możne mocno grę wzbogacić. Może ją też wykoleić.
+description: Wizja postaci to coś co możne mocno grę wzbogacić. Może ją też wykoleić. Wiele zależy czy cenimy swoją wizję wyżej niż to co możemy stworzyć wspólnie ze współgraczami.
 featuredpost: false
 featuredimage: https://res.cloudinary.com/taotegm/image/upload/v1596385702/taotegm/rpg_lfwb37.jpg
 tags:
@@ -19,4 +19,4 @@ Dobra, to z innej strony. Kira Waterman to młoda dziedziczka swojego rodu. Nast
 
 Z wizją jest jak z przekonaniami, warto je mieć, ale trzymać się ich luźno i weryfikować w kontakcie z rzeczywistością. I tak jak z przekonaniami, wizja jest wartościowa, gdy nie forsujemy jej kosztem innych, gdy ma u podstaw empatię.\
 \
-Post powstał w ramach RPGaDAY #4 "Wizja"/"Vision"
+Post powstał w ramach [\#RPGaDAY](https://www.autocratik.com/2020/06/announcing-rpgaday2020.html) #4 "Wizja"/"Vision"

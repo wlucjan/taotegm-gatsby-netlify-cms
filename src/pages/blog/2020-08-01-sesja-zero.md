@@ -58,6 +58,6 @@ Z drugiej strony nic nie stoi na przeszkodzie, by przypomnieć sobie w takiej sy
 
 W 2018 do dyspozycji był tylko oryginalny artykuł Chrisa, dziś doczekał się adaptacji w naszym ojczystym języku, autorstwa Macieja Litwina i zostało udostępnione pod adresem [PSG Tool](https://docs.google.com/document/d/1N6ZyjJ6l1UoXmutenXKp3wvyVwu_DkyPx7AHR1HR1lE/edit?fbclid=IwAR1Adux2ZDzh1hUMu3k9ENDJ-MKfCCj4u82mg9odNhRg9KwcjaoNzNCam7E). Maciej podjął się też popularyzacji tego narzędzia - miałem okazję posłuchać jego prelekcji na Coperniconie w 2019. Szacun dla Macieja, bo to dobra inicjatywa.\
 \
-Artykuł powstał wcześniej, został jednak odświeżony na potrzeby [\#RPGaDAY](https://www.autocratik.com/2020/06/announcing-rpgaday2020.html) i hasła "Początek" "Beginning"
+Artykuł powstał wcześniej, został jednak odświeżony na potrzeby [\#RPGaDAY](https://www.autocratik.com/2020/06/announcing-rpgaday2020.html) i hasła "Początek"/"Beginning"
 
 *Zdjęcie autorstwa* [tousif khan](https://www.pexels.com/pl-pl/@tousif-khan-260664?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) z [Pexels](https://www.pexels.com/pl-pl/zdjecie/asfalt-droga-drzewa-krajobraz-814667/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)

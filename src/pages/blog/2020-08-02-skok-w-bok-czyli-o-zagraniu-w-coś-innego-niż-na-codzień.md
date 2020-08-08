@@ -27,4 +27,4 @@ Inny przykład, Fiasco. Siadacie do stołu bez wizji historii, którą zaraz opo
 
 Dlatego warto czasem zmienić system, zmienić świat, by zyskać nowe spojrzenie na to co jest naszą normą, naszą preferencją. Wzbogacić je o nowy punkt widzenia, nowe techniki, nowe narzędzia.\
 \
-Artykuł powstał w ramach #RPGaDAY #2 "Zmiana"/"Change"
+Artykuł powstał w ramach [\#RPGaDAY](https://www.autocratik.com/2020/06/announcing-rpgaday2020.html) #2 "Zmiana"/"Change"
