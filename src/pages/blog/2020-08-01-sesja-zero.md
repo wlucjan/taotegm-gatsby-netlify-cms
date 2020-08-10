@@ -7,6 +7,7 @@ description: Siedzicie przy stole i wciąż nie możecie przyswoić co właśnie
   dorobku ostatniego roku grania. Już nigdy nie zaufacie Jankowi. Czy kwas,
   który się właśnie rozlał był do uniknięcia? Może.
 featuredpost: false
+visible: true
 featuredimage: https://res.cloudinary.com/taotegm/image/upload/v1588535621/taotegm/road-in-between-trees-814667_qzuqsv.jpg
 tags:
   - sesja zero

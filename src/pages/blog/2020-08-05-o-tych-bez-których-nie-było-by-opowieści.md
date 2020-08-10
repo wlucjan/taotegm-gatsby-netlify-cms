@@ -6,6 +6,7 @@ description: RPG to aktywność towarzyska. Zazwyczaj. Można grać solo, jasne,
   zdecydowana większość z nas robi to by się spotkać i wspólnie dobrze spędzić
   czas. Bez ludzi więc erpegii dla mnie nie byłyby tym samym.
 featuredpost: false
+visible: true
 featuredimage: https://res.cloudinary.com/taotegm/image/upload/v1596385702/taotegm/rpg_lfwb37.jpg
 tags:
   - RPGaDAY

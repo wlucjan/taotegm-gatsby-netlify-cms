@@ -4,6 +4,7 @@ title: Przywiązanie do wizji
 date: 2020-08-04T19:00:48.619Z
 description: Wizja postaci to coś co możne mocno grę wzbogacić. Może ją też wykoleić. Wiele zależy czy cenimy swoją wizję wyżej niż to co możemy stworzyć wspólnie ze współgraczami.
 featuredpost: false
+visible: true
 featuredimage: https://res.cloudinary.com/taotegm/image/upload/v1596385702/taotegm/rpg_lfwb37.jpg
 tags:
   - RPGaDAY

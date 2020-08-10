@@ -7,6 +7,7 @@ description: Znam graczy weteranów, którzy latami grają w ten sam system. Zna
   zasady czy detale świata. Szanuję ich. Sam tak nie potrafię. Dlatego opowiem
   dziś o tym co dać może zmiana ulubionego systemu na inny, choć na chwilę.
 featuredpost: false
+visible: true
 featuredimage: https://res.cloudinary.com/taotegm/image/upload/v1596385702/taotegm/rpg_lfwb37.jpg
 tags:
   - RPGaDAY

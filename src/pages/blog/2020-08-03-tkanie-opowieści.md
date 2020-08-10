@@ -5,6 +5,7 @@ date: 2020-08-03T19:00:48.619Z
 description: Wątki postaci są niczym ostry nóż, można się nimi równie
   łatwo skaleczyć co utkać porywającą historię. Nóż jednak warto mieć i używać. Podobnie wątki postaci.
 featuredpost: false
+visible: true
 featuredimage: https://res.cloudinary.com/taotegm/image/upload/v1596385702/taotegm/rpg_lfwb37.jpg
 tags:
   - RPGaDAY
